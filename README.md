@@ -6,7 +6,7 @@ Csc 360
 
 I did not implement the sub-directories
 
-Makefile only has Diskinfo, Disklist and Diskget. Diskput not included
+Makefile only has Diskinfo, Disklist and Diskget
 
 
 
